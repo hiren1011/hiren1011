@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and automation
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on any machine learning or AI based project
-- 📫 just 
+- 📫 just mail me on hinguhiren55@gmail.com
 
 <!---
 hiren1011/hiren1011 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
