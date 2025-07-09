@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hiren1011
 - 👀 I’m interested in AI and automation
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning GenAI
 - 💞️ I’m looking to collaborate on any machine learning or AI based project
 - 📫 just mail me on hinguhiren55@gmail.com
 
